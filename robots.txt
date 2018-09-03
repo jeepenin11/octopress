@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://jeepenin11.github.io/octopress/sitemap.xml 
